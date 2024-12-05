@@ -83,7 +83,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "7ee21c4e26cda240",
@@ -155,7 +155,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "af4ac84a6f873e3f",
+  "active": "fb64b3619c08271c",
   "lastOpenFiles": [
     "Front-End Developer Course.md"
   ]
