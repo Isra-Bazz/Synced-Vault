@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Goals.md",
+                "file": "Wed 11th Dec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Goals"
+              "title": "Wed 11th Dec"
             }
           }
         ]
@@ -137,8 +137,8 @@
         "state": {
           "type": "calendar",
           "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
+          "icon": "lucide-file",
+          "title": "Plugin no longer active"
         }
       }
     ],
@@ -155,8 +155,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fb64b3619c08271c",
+  "active": "af4ac84a6f873e3f",
   "lastOpenFiles": [
+    "Tue 10th Dec.md",
+    "Wed 11th Dec.md",
+    "Mon 9th Dec.md",
+    "Goals.md",
     "Front-End Developer Course.md"
   ]
 }
