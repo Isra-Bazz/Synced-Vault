@@ -15,8 +15,8 @@
               "state": {
                 "file": "Car Repair Plan.canvas",
                 "viewState": {
-                  "x": 111.60000000000001,
-                  "y": 0,
+                  "x": -1418.6000000000004,
+                  "y": 366.00000000000006,
                   "zoom": 0
                 }
               },
@@ -174,10 +174,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca831e6a5311783a",
+  "active": "99ba1c34ef8733cb",
   "lastOpenFiles": [
-    "Wed 11th Dec.md",
+    "Exhaust System Repairs.md",
+    "Air Con System Repairs.md",
+    "Break System Repairs.md",
+    "Untitled.md",
     "Car Repair Plan.canvas",
+    "Mechanical.md",
+    "Looks.md",
+    "Body.md",
+    "Wed 11th Dec.md",
     "Sun 8th Dec.md",
     "Daily Note design.md",
     "Daily Note Template.md",
@@ -188,7 +195,6 @@
     "README.md",
     "Home.md",
     "Welcome.md",
-    "Untitled.md",
     "Oaths to myself and Goals to reach.md",
     "29th Nov 24.md",
     "2024-12-08.md",
@@ -197,9 +203,6 @@
     "28th Nov 24.md",
     "2024-12-06.md",
     "18th Nov 24.md",
-    "19th Nov 24.md",
-    "5th Dec 24.md",
-    "4th Dec 24.md",
     "Obsdidian Vault"
   ]
 }

@@ -1,6 +1,19 @@
 {
 	"nodes":[
-		{"id":"5bb26dfd02229c0c","x":-125,"y":-30,"width":185,"height":50,"type":"text","text":"Car Repair Plan "}
+		{"id":"dbbfe89e85209fe6","type":"text","text":"## Mechanical","x":-933,"y":-449,"width":153,"height":50},
+		{"id":"d24af79b86d80d2c","x":640,"y":-474,"width":120,"height":50,"type":"text","text":"\n## Looks"},
+		{"id":"5bb26dfd02229c0c","type":"text","text":"# Car Repair Plan ","x":-160,"y":-660,"width":200,"height":50},
+		{"id":"9ac121b34e6866bf","x":-1779,"y":-222,"width":399,"height":402,"type":"text","text":"### Engine Bay\n\nThere is issues with the following: \n- Air con \n- Windscreen sprayers \n- Brake system \n- exhaust system \n- steering rack dryness or obstruction\n- fuel tank lid\n- Back break light casing broken \n- driver side rear light cluster not wired \n- passenger side body indicator shield missing "},
+		{"id":"ca15b0fec7990a7f","x":-2614,"y":264,"width":400,"height":400,"type":"file","file":"Break System Repairs.md"},
+		{"id":"ff6ac4e7c5fe7ec9","x":-2181,"y":421,"width":400,"height":400,"type":"file","file":"Air Con System Repairs.md"},
+		{"id":"ea4f76802baef1db","x":-1622,"y":411,"width":400,"height":400,"type":"file","file":"Exhaust System Repairs.md"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"43e838dfcec6c1f1","fromNode":"5bb26dfd02229c0c","fromSide":"left","toNode":"dbbfe89e85209fe6","toSide":"top"},
+		{"id":"bbeaedbdcf3cf830","fromNode":"5bb26dfd02229c0c","fromSide":"right","toNode":"d24af79b86d80d2c","toSide":"top"},
+		{"id":"8bdb2e3e424644f5","fromNode":"dbbfe89e85209fe6","fromSide":"bottom","toNode":"9ac121b34e6866bf","toSide":"top"},
+		{"id":"0fda4287c2d42f18","fromNode":"9ac121b34e6866bf","fromSide":"bottom","toNode":"ca15b0fec7990a7f","toSide":"top"},
+		{"id":"c78355b7457c2da7","fromNode":"9ac121b34e6866bf","fromSide":"bottom","toNode":"ff6ac4e7c5fe7ec9","toSide":"top"},
+		{"id":"a1c84925d7eed9e5","fromNode":"9ac121b34e6866bf","fromSide":"bottom","toNode":"ea4f76802baef1db","toSide":"top"}
+	]
 }
