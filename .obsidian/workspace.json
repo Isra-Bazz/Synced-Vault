@@ -11,17 +11,14 @@
             "id": "99ba1c34ef8733cb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Car Repair Plan.canvas",
-                "viewState": {
-                  "x": -1418.6000000000004,
-                  "y": 366.00000000000006,
-                  "zoom": 0
-                }
+                "file": "Wed 11th Dec.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Car Repair Plan"
+              "icon": "lucide-file",
+              "title": "Wed 11th Dec"
             }
           }
         ]
@@ -176,22 +173,23 @@
   },
   "active": "99ba1c34ef8733cb",
   "lastOpenFiles": [
+    "Goals.md",
+    "Front-End Developer Course.md",
     "Exhaust System Repairs.md",
+    "Electrical Issues.md",
+    "Daily Note design.md",
+    "Car Repair Plan.canvas",
+    "Wed 11th Dec.md",
     "Air Con System Repairs.md",
     "Break System Repairs.md",
     "Untitled.md",
-    "Car Repair Plan.canvas",
     "Mechanical.md",
     "Looks.md",
     "Body.md",
-    "Wed 11th Dec.md",
     "Sun 8th Dec.md",
-    "Daily Note design.md",
     "Daily Note Template.md",
     "Design Constraints.md",
     "Design Outlines.md",
-    "Front-End Developer Course.md",
-    "Goals.md",
     "README.md",
     "Home.md",
     "Welcome.md",
@@ -201,8 +199,6 @@
     "goald.md",
     "26th Nov 24.md",
     "28th Nov 24.md",
-    "2024-12-06.md",
-    "18th Nov 24.md",
     "Obsdidian Vault"
   ]
 }
