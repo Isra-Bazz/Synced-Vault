@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thu 12th Dec.md",
+                "file": "Mon 23rd Dec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thu 12th Dec"
+              "title": "Mon 23rd Dec"
+            }
+          },
+          {
+            "id": "d3b0b007c35e0e40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arrays and Pointers in C.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arrays and Pointers in C"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eabfc9c855c59a3a",
@@ -171,19 +187,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99ba1c34ef8733cb",
+  "active": "d3b0b007c35e0e40",
   "lastOpenFiles": [
-    "Car Repair Plan.canvas",
+    "Mon 23rd Dec.md",
+    "Arrays and Pointers in C.md",
+    "Front-End Developer Course.md",
+    "Wed 18th Dec.md",
     "Thu 12th Dec.md",
+    "Car Repair Plan.canvas",
     "Wed 11th Dec.md",
     "Goals.md",
-    "Front-End Developer Course.md",
     "Exhaust System Repairs.md",
     "Electrical Issues.md",
     "Daily Note design.md",
     "Air Con System Repairs.md",
     "Break System Repairs.md",
-    "Untitled.md",
     "Mechanical.md",
     "Looks.md",
     "Body.md",
@@ -198,7 +216,6 @@
     "29th Nov 24.md",
     "2024-12-08.md",
     "goald.md",
-    "26th Nov 24.md",
     "Obsdidian Vault"
   ]
 }
