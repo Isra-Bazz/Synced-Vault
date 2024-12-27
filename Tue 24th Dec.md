@@ -2,7 +2,8 @@
 Note: Daily
 ---
 ## BrainDump
-- 
+- Plan the japan trip itenerary
+- Search how to plan an itenerary 
 ## Projects and Todo's
 ```dataview
 TABLE WITHOUT ID
