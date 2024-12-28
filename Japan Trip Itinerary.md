@@ -1,3 +1,10 @@
+---
+Date: 2024-12-25
+Topic: Holidays
+Progress: 30
+Note: Project
+---
+
 ## Interests and want to sees
 1. Temples
 2. Onsens
