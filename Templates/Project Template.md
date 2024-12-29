@@ -1,8 +1,8 @@
 ---
 Date: 
-Note: 
+Note: Project
 Topic: 
-Progress:
+Progress: 0
 ---
 ## Basic Idea:
 

@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "2c0f5ab1f0c7d322",
+        "id": "794da6b4933e4124",
         "type": "tabs",
         "children": [
           {
-            "id": "c37e2402534542d9",
+            "id": "24b00d4e3e24d0b9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Clothing Tailoring.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Clothing Tailoring"
+            }
+          },
+          {
+            "id": "286d56aefef53da5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Keyboard Fix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keyboard Fix"
             }
           }
         ]
@@ -73,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eabfc9c855c59a3a",
@@ -167,15 +186,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ca831e6a5311783a",
+  "active": "24b00d4e3e24d0b9",
   "lastOpenFiles": [
+    "Daily Notes/Sun 29th Dec.md",
+    "Keyboard Fix.md",
+    "Clothing Tailoring.md",
+    "Oaths to myself and Goals to reach.md",
+    "Japan Trip Itinerary.md",
+    "Kilojoule Consumption Calculations.md",
+    "Templates/Project Template.md",
+    "Templates",
+    "Fix Printers.md",
+    "Daily Notes/Sat 28th Dec.md",
     "Daily Notes/Wed 18th Dec.md",
     "Daily Notes/Wed 11th Dec.md",
     "Daily Notes/Tue 24th Dec.md",
     "Daily Notes/Tue 10th Dec.md",
     "Daily Notes/Thu 12th Dec.md",
     "Daily Notes/Sun 8th Dec.md",
-    "Daily Notes/Sat 28th Dec.md",
     "Daily Notes/Mon 23rd Dec.md",
     "Daily Notes/Mon 9th Dec.md",
     "Daily Notes/Fri 27th Dec.md",
@@ -187,15 +215,7 @@
     "Daily Notes/25th Nov 24.md",
     "Daily Notes/24th Nov 24.md",
     "Daily Notes/21st Nov 24.md",
-    "Daily Notes/18th Nov 24.md",
-    "Daily Notes/5th Dec 24.md",
-    "Daily Notes/4th Dec 24.md",
     "Daily Notes",
-    "Japan Trip Itinerary.md",
-    "C programming.md",
-    "Sat 28th Dec.md",
-    "Fri 27th Dec.md",
-    "Tue 24th Dec.md",
     "Car Repair Plan.canvas",
     "Obsdidian Vault"
   ]
