@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Tue 7th Jan.md",
+                "file": "Daily Notes/Wed 8th Jan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tue 7th Jan"
+              "title": "Wed 8th Jan"
             }
           }
         ]
@@ -174,8 +174,9 @@
   },
   "active": "061140d150f5540c",
   "lastOpenFiles": [
-    "Templates/Daily Note Template.md",
     "Daily Notes/Tue 7th Jan.md",
+    "Daily Notes/Wed 8th Jan.md",
+    "Templates/Daily Note Template.md",
     "Daily Notes/Mon 6th Jan.md",
     "Clothing Tailoring.md",
     "Keyboard Fix.md",
@@ -200,7 +201,6 @@
     "Daily Notes/Mon 9th Dec.md",
     "Daily Notes/Fri 27th Dec.md",
     "Daily Notes/29th Nov 24.md",
-    "Daily Notes/28th Nov 24.md",
     "Daily Notes",
     "Car Repair Plan.canvas",
     "Obsdidian Vault"
