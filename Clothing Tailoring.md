@@ -2,7 +2,7 @@
 Date: 
 Note: Project
 Topic: Clothing
-Progress: 0
+Progress: 50
 ---
 ## Basic Idea:
 There are 4-5 things that I want to do that require knowledge in sewing and tailoring or just general crafts. Those being: 

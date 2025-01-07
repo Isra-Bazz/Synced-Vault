@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "794da6b4933e4124",
+        "id": "59539c1c8bd3cb34",
         "type": "tabs",
         "children": [
           {
-            "id": "24b00d4e3e24d0b9",
+            "id": "061140d150f5540c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clothing Tailoring.md",
+                "file": "Daily Notes/Tue 7th Jan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clothing Tailoring"
-            }
-          },
-          {
-            "id": "286d56aefef53da5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Keyboard Fix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keyboard Fix"
+              "title": "Tue 7th Jan"
             }
           }
         ]
@@ -91,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eabfc9c855c59a3a",
@@ -186,17 +171,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "24b00d4e3e24d0b9",
+  "active": "061140d150f5540c",
   "lastOpenFiles": [
-    "Daily Notes/Sun 29th Dec.md",
-    "Keyboard Fix.md",
+    "Templates/Daily Note Template.md",
+    "Daily Notes/Tue 7th Jan.md",
+    "Daily Notes/Mon 6th Jan.md",
     "Clothing Tailoring.md",
+    "Keyboard Fix.md",
+    "Daily Notes/Sun 5th Jan.md",
+    "Templates/Daily Note design.md",
+    "Templates/Project Template.md",
+    "Fix Printers.md",
+    "Untitled.md",
+    "Daily Notes/Sun 29th Dec.md",
     "Oaths to myself and Goals to reach.md",
     "Japan Trip Itinerary.md",
     "Kilojoule Consumption Calculations.md",
-    "Templates/Project Template.md",
     "Templates",
-    "Fix Printers.md",
     "Daily Notes/Sat 28th Dec.md",
     "Daily Notes/Wed 18th Dec.md",
     "Daily Notes/Wed 11th Dec.md",
@@ -209,12 +200,6 @@
     "Daily Notes/Fri 27th Dec.md",
     "Daily Notes/29th Nov 24.md",
     "Daily Notes/28th Nov 24.md",
-    "Daily Notes/26th Nov 24.md",
-    "Daily Notes/20th Nov 24.md",
-    "Daily Notes/19th Nov 24.md",
-    "Daily Notes/25th Nov 24.md",
-    "Daily Notes/24th Nov 24.md",
-    "Daily Notes/21st Nov 24.md",
     "Daily Notes",
     "Car Repair Plan.canvas",
     "Obsdidian Vault"
