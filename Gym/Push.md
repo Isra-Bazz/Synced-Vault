@@ -7,3 +7,7 @@ Dumbbell chest press: **25kg** *6-8 reps* **3 sets**
 Overhead cable tricep extensions: **15kg** *6-8reps* **3 sets**
 Cable chest flies: **25kg** *6-8reps* **3 sets**
 Tricep focused dips: **90kg support** *failure* **3 sets**
+
+Dumbbell Bench Press: 37kg x 6
+Skullcrushers: 35kg x 7
+Incline bench machine (Rivervale): 45kg x 6

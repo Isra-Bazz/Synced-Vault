@@ -1,0 +1,7 @@
+- udon noodles x2
+- Chicken
+- Mushrooms
+- cooking cream
+- Seasame seeds
+- Oyster sauce
+- fuiikare? 
