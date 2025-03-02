@@ -11,3 +11,6 @@ Tricep focused dips: **90kg support** *failure* **3 sets**
 Dumbbell Bench Press: 37kg x 6
 Skullcrushers: 35kg x 7
 Incline bench machine (Rivervale): 45kg x 6
+Overhead Tricep Extensions: 35kg x 6
+Pec Dec Fly: 115kg x 6
+Tricep Extensions: 15kg x 6
