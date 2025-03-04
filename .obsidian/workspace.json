@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Sun 2nd Mar.md",
+                "file": "Daily Notes/Wed 5th Mar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sun 2nd Mar"
+              "title": "Wed 5th Mar"
             }
           }
         ],
@@ -56,7 +56,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "eabfc9c855c59a3a",
@@ -191,6 +190,7 @@
   "active": "65d34bc065218f14",
   "lastOpenFiles": [
     "Shopping Lists/Shopping list.md",
+    "Daily Notes/Wed 5th Mar.md",
     "Daily Notes/Sun 2nd Mar.md",
     "Untitled 1",
     "Shopping Lists",
@@ -219,7 +219,6 @@
     "Templates/Daily Note Template.md",
     "Daily Notes/Mon 6th Jan.md",
     "Clothing Tailoring.md",
-    "Daily Notes/Sun 5th Jan.md",
     "Templates",
     "Daily Notes",
     "Obsdidian Vault"
