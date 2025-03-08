@@ -1,0 +1,1 @@
+- 2025-03-06 | **Bicep Curl**: 3 sets × 6 reps @ 50kg (1RM: 60kg)
