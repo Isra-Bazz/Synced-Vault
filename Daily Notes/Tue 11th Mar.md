@@ -2,16 +2,19 @@
 Note: Daily
 ---
 ## BrainDump
-- boot.dev
-- Coding in c 
-- 
-### Todo
-- [ ] Finish setting up desk
-- [ ] Pack all clothes away
-- [ ] go to gym
-- [ ] finish ID check
-- [ ] Make shopping list
-- [ ] 
+
+### Morning Habits 
+1. Wake up =
+2. Check phone -
+3. Jerk off -
+4. Watch videos -
+5. Get up =
+6. Shower =
+7. Watch videos -
+8. Make and eat food while watching videos =
+9. Get dressed =
+10. Groom myself =
+11. Step out the door =
 ## Projects and Todo's
 ```dataview
 TABLE WITHOUT ID

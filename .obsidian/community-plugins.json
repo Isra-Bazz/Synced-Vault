@@ -1,9 +1,9 @@
 [
   "calendar",
   "dataview",
-  "obsidian-tasks-plugin",
-  "templater-obsidian",
+  "obsidian-excalidraw-plugin",
   "obsidian-minimal-settings",
-  "obsidian-excalidraw-plugin"
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-tasks-plugin",
+  "templater-obsidian"
 ]

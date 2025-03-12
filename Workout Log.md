@@ -1,1 +1,2 @@
 - 2025-03-06 | **Bicep Curl**: 3 sets × 6 reps @ 50kg (1RM: 60kg)
+- 2025-03-12 | **Bench Press**: 0 sets × 0 reps @ 0kg (1RM: 0kg)

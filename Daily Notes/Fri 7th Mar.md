@@ -2,16 +2,7 @@
 Note: Daily
 ---
 ## BrainDump
-- boot.dev
-- Coding in c 
 - 
-### Todo
-- [ ] Finish setting up desk
-- [ ] Pack all clothes away
-- [ ] go to gym
-- [ ] finish ID check
-- [ ] Make shopping list
-- [ ] 
 ## Projects and Todo's
 ```dataview
 TABLE WITHOUT ID

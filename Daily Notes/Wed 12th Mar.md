@@ -2,15 +2,12 @@
 Note: Daily
 ---
 ## BrainDump
-- boot.dev
-- Coding in c 
-- 
-### Todo
-- [ ] Finish setting up desk
-- [ ] Pack all clothes away
-- [ ] go to gym
-- [ ] finish ID check
-- [ ] Make shopping list
+### Todos today 
+- [ ] pack PC up
+- [ ] Move first set of boxes 
+- [ ] mow front lawn 
+- [ ] move stuff back to the main house 
+- [ ] cook last of food for the weekend 
 - [ ] 
 ## Projects and Todo's
 ```dataview
