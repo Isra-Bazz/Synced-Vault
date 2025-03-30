@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Tue 18th Mar.md",
+                "file": "Clothing Tailoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tue 18th Mar"
+              "title": "Clothing Tailoring"
             }
           }
         ],
@@ -217,8 +217,12 @@
   },
   "active": "bb1b606522be69f7",
   "lastOpenFiles": [
-    "Workout Log.md",
+    "Fix Printers.md",
+    "Clothing Tailoring.md",
+    "C programming.md",
+    "Daily Notes/Fri 28th Mar.md",
     "Daily Notes/Tue 18th Mar.md",
+    "Workout Log.md",
     "Templates/Gym Test.md",
     "Daily Notes/Thu 6th Mar.md",
     "Daily Notes/Wed 5th Mar.md",
@@ -226,7 +230,6 @@
     "Daily Notes/Sun 2nd Mar.md",
     "Untitled 1",
     "Shopping Lists",
-    "Fix Printers.md",
     "Front-End Developer Course.md",
     "Goals.md",
     "Japan Trip Itinerary.md",
@@ -240,13 +243,10 @@
     "Repairs/Arrays and Pointers in C.md",
     "Repairs",
     "Repairs/Break System Repairs.md",
-    "C programming.md",
     "Repairs/Car Repair Plan.canvas",
     "Gym/Pull.md",
     "Gym/Push.md",
     "Daily Notes/Fri 28th Feb.md",
-    "Daily Notes/Wed 8th Jan.md",
-    "Daily Notes/Tue 7th Jan.md",
     "Templates",
     "Daily Notes",
     "Obsdidian Vault"
