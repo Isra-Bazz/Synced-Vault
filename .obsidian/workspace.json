@@ -4,67 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "59539c1c8bd3cb34",
+        "id": "66287e30d92ef2db",
         "type": "tabs",
         "children": [
           {
-            "id": "061140d150f5540c",
+            "id": "4a5fa2a04e43dfda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clothing Tailoring.md",
+                "file": "Javascript testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clothing Tailoring"
+              "title": "Javascript testing"
             }
           },
           {
-            "id": "65d34bc065218f14",
+            "id": "aadfdaea1b9c3f39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Thu 6th Mar.md",
+                "file": "Daily Notes/Mon 28th Apr.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Thu 6th Mar"
-            }
-          },
-          {
-            "id": "2245a67aa3b43227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Thu 6th Mar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Thu 6th Mar"
-            }
-          },
-          {
-            "id": "bb1b606522be69f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clothing Tailoring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clothing Tailoring"
+              "title": "Mon 28th Apr"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,38 +186,38 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb1b606522be69f7",
+  "active": "4a5fa2a04e43dfda",
   "lastOpenFiles": [
-    "Fix Printers.md",
+    "Keyboard Fix.md",
+    "Javascript testing.md",
+    "Templates/Gym Test.md",
+    "Daily Notes/Mon 28th Apr.md",
+    "Daily Notes/Sat 26th Apr.md",
     "Clothing Tailoring.md",
+    "Templates/Daily Note Template.md",
+    "Templates/Daily Note design.md",
+    "Daily Notes/4th Dec 24.md",
+    "Goals.md",
+    "Front-End Developer Course.md",
+    "Daily Notes/Fri 25th Apr.md",
+    "Fix Printers.md",
     "C programming.md",
     "Daily Notes/Fri 28th Mar.md",
     "Daily Notes/Tue 18th Mar.md",
     "Workout Log.md",
-    "Templates/Gym Test.md",
     "Daily Notes/Thu 6th Mar.md",
     "Daily Notes/Wed 5th Mar.md",
     "Shopping Lists/Shopping list.md",
     "Daily Notes/Sun 2nd Mar.md",
     "Untitled 1",
     "Shopping Lists",
-    "Front-End Developer Course.md",
-    "Goals.md",
     "Japan Trip Itinerary.md",
-    "Keyboard Fix.md",
     "Kilojoule Consumption Calculations.md",
     "Oaths to myself and Goals to reach.md",
     "README.md",
     "WS4.md",
-    "Shopping list.md",
-    "Repairs/Air Con System Repairs.md",
-    "Repairs/Arrays and Pointers in C.md",
     "Repairs",
-    "Repairs/Break System Repairs.md",
     "Repairs/Car Repair Plan.canvas",
-    "Gym/Pull.md",
-    "Gym/Push.md",
-    "Daily Notes/Fri 28th Feb.md",
     "Templates",
     "Daily Notes",
     "Obsdidian Vault"
