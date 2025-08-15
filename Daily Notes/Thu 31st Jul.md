@@ -5,8 +5,6 @@ cssclasses:
 ---
 ## BrainDump
 
-make a list where the file modified date is the within the first 5 closest to the current date 
-
 ## Recent Notes 
 ```dataview
 TABLE WITHOUT ID

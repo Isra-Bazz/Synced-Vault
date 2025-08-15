@@ -3,7 +3,7 @@ Note: Daily
 cssclasses:
   - cards
 ---
-## BrainDump
+## Brain Dump
 
 make a list where the file modified date is the within the first 5 closest to the current date 
 
