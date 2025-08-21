@@ -4,6 +4,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-minimal-settings",
   "obsidian-style-settings",
-  "obsidian-tasks-plugin",
-  "templater-obsidian"
+  "templater-obsidian",
+  "obsidian-tasks-plugin"
 ]
