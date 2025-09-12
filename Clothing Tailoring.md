@@ -1,8 +1,10 @@
 ---
-Date: 
+id: Clothing Tailoring
+aliases: []
+tags: []
 Note: Project
-Topic: Clothing
 Progress: 50
+Topic: Clothing
 ---
 ## Basic Idea:
 There are 4-5 things that I want to do that require knowledge in sewing and tailoring or just general crafts. Those being: 
