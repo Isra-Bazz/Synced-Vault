@@ -5,7 +5,9 @@ cssclasses:
 ---
 ## BrainDump
 
-make a list where the file modified date is the within the first 5 closest to the current date 
+I want to make nvim a bit more code friendly
+I think that this includes having an LSP for python, c and the prettier stack 
+
 
 ## Recent Notes 
 ```dataview
@@ -14,7 +16,7 @@ file.link AS "Note",
 file.mday AS "Last Mod"
 FROM -"Daily Notes"
 SORT file.mday DESC
-LIMIT 4
+LIMIT 6
 ```
 ## Projects and Todo's
 ```dataview
