@@ -1,0 +1,22 @@
+- [[VSCodium Hyde Research |VSCodium]]
+- [[Kvantum Hyde Research |Kvantum?]] 
+- [[dunst research|Dunst]]
+- fastfetch (this can be changed using the config.jsonc)
+- gtk-3 ==no need to change==
+- [[hyde research|hyde]] 
+- hypr ==not yet==
+- kitty honestly not a big deal, maybe could change it in the kitty.conf if needed 
+- menus?
+- nwg-look?
+- rofi
+- satty 
+- starship?
+- swaylock?
+- systemd/user
+- uwsm?
+- vim for nvim
+- waybar only config for me
+- wlogout
+- xsettingsd
+- zsh
+- dolphin

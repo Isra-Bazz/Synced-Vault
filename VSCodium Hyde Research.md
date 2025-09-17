@@ -1,0 +1,1 @@
+HyDE stores the config in the .config directory and user sub directory. It then coppies the wallbash workbench info and uses kitty as its external linux.exec terminal
