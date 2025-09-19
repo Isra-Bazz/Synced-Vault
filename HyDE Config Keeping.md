@@ -6,17 +6,17 @@
 - [[hyde research|hyde]] 
 - hypr ==not yet==
 - kitty honestly not a big deal, maybe could change it in the kitty.conf if needed 
-- menus?
-- nwg-look?
-- rofi
-- satty 
-- starship?
-- swaylock?
-- systemd/user
-- uwsm?
-- vim for nvim
-- waybar only config for me
-- wlogout
-- xsettingsd
-- zsh
-- dolphin
+- menus: config file for XDG applications and settings via file on[FreeDesktop](ttp://www.freedesktop.org/standards) 
+- nwg-look: its a config file for gtk and qt apps
+- rofi: contains just theme.rasi which is another config file 
+- satty: satty is a screenshot application and this is where its cfg would be 
+- starship: term sugar lol keep
+- swaylock: a lockscreen util (may not keep depending on interference with hyprlock)
+- systemd/user: system shit for making sure there a graphical-session?
+- uwsm: they are using uwsm to handle xdg freedesktop spec bc uwsm does it automatically
+- vim for nvim: keep ofc but this is more of a [[Neovim Izzz Reform]] issue
+- waybar: realistically only really need 1 config for myself but I need more info on how to wallbash it
+- wlogout: pretty good util for the menu for logout/sleep/off. etc but I am keeping 
+- xsettingsd: keep  
+- zsh: keep
+- dolphin: keep
