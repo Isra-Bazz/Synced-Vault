@@ -22,7 +22,7 @@ I want to keep things as they were for hyprdots
 I am have learned about the current HyDE-project config, I don't like it simply because of the abstraction used when switching over from hyperdots
 I am going to switch it back to hyprdots first and take what I like from the current HyDE-project version.
 Keeping a separate repo for each. and 1 for my current configs. 
-git
+gitre
 
 ## Test
 ## Implementation

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "863d6d34405b12ba",
+        "id": "a132477f128f8c04",
         "type": "tabs",
         "children": [
           {
-            "id": "2983fee3a506eb79",
+            "id": "89b56c6ad29042e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hyprland Izzz Reform.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Hyprland Izzz Reform"
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -96,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hyprland Izzz Reform.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Hyprland Izzz Reform"
+              "title": "Backlinks"
             }
           },
           {
@@ -196,14 +190,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2983fee3a506eb79",
+  "active": "89b56c6ad29042e8",
   "lastOpenFiles": [
+    "MTG Thoughts.md",
+    "www.archidekt.com.md",
+    "archidekt.com.md",
+    "Templates/Random Note Templates.md",
+    "Daily Notes/Mon 22nd Sep.md",
+    "Daily Notes/Sat 20th Sep.md",
+    "Hyprland Izzz Reform.md",
     "HyDE Config Keeping.md",
     "hyde research.md",
     "Plans for the next week.md",
     "Clippings/NvChad.md",
     "Clippings",
-    "Hyprland Izzz Reform.md",
     "Untitled.md",
     "Neovim Izzz Reform.md",
     "VSCodium Hyde Research.md",
@@ -224,12 +224,6 @@
     "Daily Notes/4th Dec 24.md",
     "Daily Notes/Wed 17th Sep.md",
     "LSP config for neovim.md",
-    "Templates/Project Template.md",
-    "dunst research.md",
-    "Kvantum Hyde Research.md",
-    "HyDE.md",
-    "Make shit now and fix obsidian.md",
-    "Breaking Up with Jesse.md",
     "Untitled 1",
     "Shopping Lists",
     "Repairs",
