@@ -1,0 +1,16 @@
+views:
+  - type: cards
+    name: Table
+    filters:
+      and:
+        - file.folder != "Daily Notes"
+        - Topic != "Food"
+        - '!file.inFolder("Templates")'
+    order:
+      - file.name
+      - Date
+    sort:
+      - property: Date
+        direction: DESC
+    cardSize: 230
+    imageFit: ""

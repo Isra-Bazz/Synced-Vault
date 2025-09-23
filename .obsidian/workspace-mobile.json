@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Mon 18th Aug.md",
+                "file": "Daily Notes/Tue 23rd Sep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mon 18th Aug"
+              "title": "Tue 23rd Sep"
             }
           }
         ],
@@ -124,6 +124,20 @@
           "state": {},
           "icon": "lucide-bookmark",
           "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "6b237fdd34fb35e5",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
         }
       }
     ],
@@ -190,20 +204,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "b6ba7b5eb62a6d2d",
   "lastOpenFiles": [
-    "Make shit now and fix obsidian.md",
     "Daily Notes/Mon 18th Aug.md",
+    "Daily Notes/Tue 23rd Sep.md",
+    "Make shit now and fix obsidian.md",
     "Daily Notes/Sat 16th Aug.md",
     "Daily Notes/Fri 15th Aug.md",
     "Daily Notes/Wed 22nd Jan.md",
@@ -227,7 +243,6 @@
     "Templates/Daily Note design.md",
     "README.md",
     "Templates/Recipe Template.md",
-    "Daily Notes/Tue 18th Feb.md",
     "Car Repair Plan.canvas",
     "Untitled",
     "Recipes",
