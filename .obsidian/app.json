@@ -1,4 +1,7 @@
 {
   "vimMode": true,
-  "mobilePullAction": "switcher:open"
+  "mobilePullAction": "switcher:open",
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "showLineNumber": true
 }

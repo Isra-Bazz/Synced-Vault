@@ -3,7 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "Date": "date",
+    "Date": "datetime",
     "Progress": "number",
     "TQ_explain": "checkbox",
     "TQ_extra_instructions": "text",

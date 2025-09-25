@@ -1,6 +1,6 @@
 ---
-Date: 
-Note: Project
+Date:
+Note_Type: Project
 Topic: Template
 Progress: 0
 ---

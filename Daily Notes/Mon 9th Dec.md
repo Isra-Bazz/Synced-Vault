@@ -1,5 +1,5 @@
 ---
-Note: Daily
+Note_Type: Daily
 ---
 ## BrainDump
 - today I am out with Clarissa doin something (everything )

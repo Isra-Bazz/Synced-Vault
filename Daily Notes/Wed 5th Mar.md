@@ -1,5 +1,5 @@
 ---
-Note: Daily
+Note_Type: Daily
 ---
 ## BrainDump
 - make list of habits i want to keep

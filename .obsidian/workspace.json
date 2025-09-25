@@ -4,17 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "a132477f128f8c04",
+        "id": "3d6ffe93118f3ecd",
         "type": "tabs",
+        "dimension": 53.62946912242686,
         "children": [
           {
-            "id": "89b56c6ad29042e8",
+            "id": "691f69deafe45bed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "canvas",
+              "state": {
+                "file": "Izzz-OS Planning.canvas",
+                "viewState": {
+                  "x": -224.98410849916644,
+                  "y": 225.54433841487287,
+                  "zoom": -0.6
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Izzz-OS Planning"
+            }
+          }
+        ]
+      },
+      {
+        "id": "0055ccce9b047026",
+        "type": "tabs",
+        "dimension": 46.37053087757313,
+        "children": [
+          {
+            "id": "f80e0c277e4de892",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Izzz_OS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Izzz_OS"
             }
           }
         ]
@@ -49,9 +79,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hypr",
+                "query": "[\"Note\"]",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "byModifiedTime"
@@ -70,11 +100,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 292.5,
     "collapsed": true
   },
   "right": {
@@ -91,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Templates/Daily Note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Daily Note Template"
             }
           },
           {
@@ -163,18 +195,19 @@
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 205.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -190,44 +223,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "89b56c6ad29042e8",
+  "active": "f80e0c277e4de892",
   "lastOpenFiles": [
+    "Izzz-OS Planning.canvas",
+    "Izzz_OS.md",
+    "HyDE Config Keeping.md",
+    "Hyprland Izzz Reform.md",
+    "Daily Notes/25-9-2025.md",
+    "Daily Notes/24-9-2025.md",
+    "Neovim Izzz Reform.md",
     "MTG Thoughts.md",
+    "Front-End Developer Course.md",
+    "Japan Trip Itinerary.md",
+    "Keyboard Fix.md",
+    "Templates/Daily Note Template.md",
+    "Untitled.md",
+    "ALL_NOTES.base",
+    "PROJECTS.base",
+    "Breaking Up with Jesse.md",
+    "Daily Notes/Tue 23rd Sep.md",
+    "Daily Notes/Wed 24th Sep.md",
+    "Daily Notes/Mon 22nd Sep.md",
+    "Vim Motions.md",
+    "LSP config for neovim.md",
+    "Daily Notes/18th Nov 24.md",
+    "Untitled.base",
+    "Clippings/NvChad.md",
+    "Untitled 2.base",
+    "Untitled 1.md",
+    "Untitled 1.base",
     "www.archidekt.com.md",
     "archidekt.com.md",
     "Templates/Random Note Templates.md",
-    "Daily Notes/Mon 22nd Sep.md",
     "Daily Notes/Sat 20th Sep.md",
-    "Hyprland Izzz Reform.md",
-    "HyDE Config Keeping.md",
-    "hyde research.md",
-    "Plans for the next week.md",
-    "Clippings/NvChad.md",
     "Clippings",
-    "Untitled.md",
-    "Neovim Izzz Reform.md",
-    "VSCodium Hyde Research.md",
-    "Daily Notes/Fri 19th Sep.md",
-    "Vim Motions.md",
-    "Daily Notes/Thu 18th Sep.md",
-    "Untitled.base",
-    "Untitled 1.md",
-    "Workout Log.md",
-    "Fix Printers.md",
-    "Templates/Daily Note Template.md",
     "test.obsidian.nvim.md~",
-    "test.obsidian.nvim.md",
     "test.obsidian.nvim~",
     "test.obsidian.nvim",
-    "1758109866-FVOX.md",
     "Fix Printers.md~",
-    "Daily Notes/4th Dec 24.md",
-    "Daily Notes/Wed 17th Sep.md",
-    "LSP config for neovim.md",
-    "Untitled 1",
-    "Shopping Lists",
-    "Repairs",
-    "Repairs/Car Repair Plan.canvas",
-    "Templates"
+    "Repairs/Car Repair Plan.canvas"
   ]
 }

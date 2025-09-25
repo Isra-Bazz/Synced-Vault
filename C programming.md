@@ -1,6 +1,6 @@
 ---
 Date: 2024-12-23
-Note: Project
+Note_Type: Project
 Topic: Coding
 Progress: 0
 ---

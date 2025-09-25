@@ -1,5 +1,5 @@
 ---
-Note: Daily
+Note_Type: Daily
 ---
 ## BrainDump
 - Today I want to apply for jobs and play baldurs gate with my mates 

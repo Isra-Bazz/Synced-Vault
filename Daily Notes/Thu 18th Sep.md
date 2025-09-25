@@ -1,5 +1,5 @@
 ---
-Note: Daily
+Note_Type: Daily
 cssclasses:
   - cards
 ---
@@ -7,7 +7,7 @@ cssclasses:
 
 make a list where the file modified date is the within the first 5 closest to the current date 
 
-![[Untitled.base]]
+![[ALL_NOTES.base]]
 
 ## Recent Notes 
 ```dataview

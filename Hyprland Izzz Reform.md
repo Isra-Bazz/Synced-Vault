@@ -1,8 +1,8 @@
 ---
 Date: 2025-09-17
-Progress: 0
+Progress: 100
 Topic: Software Dev
-Note: Project
+Note_Type: Project
 ---
 ## Define 
 I want to make Hyprland mine. 
@@ -25,4 +25,8 @@ Keeping a separate repo for each. and 1 for my current configs.
 gitre
 
 ## Test
+I decided to reset my laptop
+I am editing a whole config inside [[Izzz_OS]]
+I think this will be better for everything if I do decide to fully switch because I am fully in control of everything
 ## Implementation
+[[Izzz_OS]]

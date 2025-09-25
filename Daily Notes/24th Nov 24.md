@@ -1,5 +1,5 @@
 ---
-Note: Daily
+Note_Type: Daily
 ---
 ## BrainDump
 - the spectrum award for IEEE

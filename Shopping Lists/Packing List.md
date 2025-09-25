@@ -1,5 +1,5 @@
 ---
-Note: Project
+Note_Type: Project
 Date: 2025-01-18
 Topic: Moving out
 ---

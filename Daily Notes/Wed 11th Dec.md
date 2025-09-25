@@ -1,5 +1,5 @@
 ---
-Note: Daily
+Note_Type: Daily
 ---
 ## BrainDump
 - [x] today I wanna do something ✅ 2024-12-11

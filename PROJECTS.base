@@ -1,0 +1,23 @@
+properties:
+  file.mtime:
+    displayName: Last Modified
+views:
+  - type: cards
+    name: Projects
+    filters:
+      and:
+        - "!Topic.isEmpty()"
+        - Note_Type == "Project"
+        - Progress != 100
+        - "!Progress.isEmpty()"
+    order:
+      - file.name
+      - Topic
+      - Progress
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 3
+    cardSize: 240
+    imageAspectRatio: 1
