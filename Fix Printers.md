@@ -2,8 +2,8 @@
 id: Fix Printers
 aliases: []
 tags: []
-Date: "2024-12-23"
-Note: Project
+Date: 2024-12-23
+Note_Type: Project
 Progress: 50
 Topic: 3D Printing
 ---

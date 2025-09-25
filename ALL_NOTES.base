@@ -1,0 +1,40 @@
+properties:
+  file.mtime:
+    displayName: Last Modified
+views:
+  - type: cards
+    name: Recent Notes
+    filters:
+      and:
+        - file.folder != "Daily Notes"
+        - Topic != "Food"
+        - '!file.inFolder("Templates")'
+        - '!file.name.contains(".base")'
+    order:
+      - file.name
+      - Date
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 6
+    cardSize: 230
+    imageFit: ""
+  - type: cards
+    name: Projects
+    filters:
+      and:
+        - "!Topic.isEmpty()"
+        - Note_Type == "Project"
+        - Progress != 100
+        - "!Progress.isEmpty()"
+    order:
+      - file.name
+      - Topic
+      - Progress
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+    limit: 4
+    cardSize: 240
+    imageAspectRatio: 1

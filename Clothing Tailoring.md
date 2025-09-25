@@ -2,7 +2,7 @@
 id: Clothing Tailoring
 aliases: []
 tags: []
-Note: Project
+Note_Type: Project
 Progress: 50
 Topic: Clothing
 ---

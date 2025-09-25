@@ -2,7 +2,7 @@
 Date: 2024-12-25
 Topic: Holidays
 Progress: 100
-Note: Project
+Note_Type: Project
 ---
 ## Interests and want to sees
 1. Temples

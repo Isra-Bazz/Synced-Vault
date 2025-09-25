@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"4e07af8783210653","x":-40,"y":340,"width":120,"height":50,"type":"text","text":"# Izzz_OS"},
+		{"id":"108baa01362f2cf8","x":-780,"y":130,"width":120,"height":50,"type":"text","text":"Hyprland"},
+		{"id":"01c3f58471ea4ab8","x":-480,"y":40,"width":125,"height":50,"type":"text","text":"Zsh"},
+		{"id":"bda789cef2957ef0","x":-80,"y":40,"width":250,"height":50,"type":"text","text":""}
+	],
+	"edges":[
+		{"id":"d3ba4b5dcc6c53ff","fromNode":"108baa01362f2cf8","fromSide":"bottom","toNode":"4e07af8783210653","toSide":"top"},
+		{"id":"4e5dab8326ba0dac","fromNode":"01c3f58471ea4ab8","fromSide":"bottom","toNode":"4e07af8783210653","toSide":"top"},
+		{"id":"94bb6b2d4401d72f","fromNode":"bda789cef2957ef0","fromSide":"bottom","toNode":"4e07af8783210653","toSide":"top"}
+	]
+}

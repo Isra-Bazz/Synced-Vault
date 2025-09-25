@@ -1,6 +1,6 @@
 ---
 Date: 2025-09-17
-Note: Project
+Note_Type: Project
 Topic: Software Dev
 Progress: 0
 ---

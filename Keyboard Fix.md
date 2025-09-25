@@ -1,6 +1,6 @@
 ---
 Date: 2024-12-29
-Note: Project
+Note_Type: Project
 Topic: Keyboards
 Progress: 100
 ---

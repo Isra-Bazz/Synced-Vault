@@ -1,7 +1,7 @@
 ---
 Date: 2025-02-18
 Topic: Food
-Note: Recipe
+Note_Type: Recipe
 Protein:
 ---
 ## Ingredients
