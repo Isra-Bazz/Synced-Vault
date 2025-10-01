@@ -13,3 +13,10 @@ Currently thinking of
 - Ragost, Deft Gastronaut
 ## Conclusion
 Build a new deck on [Archideck](https://archidekt.com/)
+[[Ultrakill Proxy ]]
+I have 4 decks rn 
+- Disa 
+- Abaddon 
+- Calgar swap
+- Ultrakill swap need to do the decklist bc im cooked 
+- Wolverine 
