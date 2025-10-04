@@ -10,6 +10,7 @@ views:
         - Topic != "Food"
         - '!file.inFolder("Templates")'
         - '!file.name.contains(".base")'
+        - "!Note_Type.isEmpty()"
     order:
       - file.name
       - Date
