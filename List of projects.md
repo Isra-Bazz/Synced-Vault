@@ -1,0 +1,14 @@
+- [ ] Fix car brakes 
+- [ ] fix car exhaust
+- [ ] fix car aircon
+- [ ] fix car seats 
+- [ ] fix printer
+- [ ] set up old printer 
+- [ ] make the new magic decks 
+- [ ] print new magic deck boxes
+- [ ] make parts for my car 
+- [ ] make OS 
+- [ ] sew jeans back up 
+- [ ] clean wardrobe 
+- [ ] move desk 
+- [ ] 

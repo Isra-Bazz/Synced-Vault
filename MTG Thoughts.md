@@ -21,6 +21,5 @@ I have 4 decks rn
 - Ultrakill swap need to do the decklist bc im cooked 
 - Wolverine 
 - millman 
-- arabelle, abandoned doll?
 - Urtet, Remnant of Memnarch (kodamas)?
 -  hashaton
