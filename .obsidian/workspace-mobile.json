@@ -55,12 +55,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Tue 23rd Sep.md",
+                "file": "Daily Notes/15-10-2025.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Tue 23rd Sep"
+              "title": "15-10-2025"
             }
           }
         ],
@@ -110,7 +111,9 @@
           "type": "tag",
           "state": {
             "sortOrder": "frequency",
-            "useHierarchy": true
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-tags",
           "title": "Tags"
@@ -153,7 +156,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Shopping list.md",
+            "file": "Daily Notes/6-10-2025.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -204,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "audio-recorder:Start/stop recording": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
@@ -217,14 +221,24 @@
   },
   "active": "b6ba7b5eb62a6d2d",
   "lastOpenFiles": [
-    "Daily Notes/Mon 18th Aug.md",
-    "Daily Notes/Tue 23rd Sep.md",
+    "LSP config for neovim.md",
+    "Daily Notes/15-10-2025.md",
     "Make shit now and fix obsidian.md",
+    "Workout Log.md",
+    "VSCodium Hyde Research.md",
+    "Vim Motions.md",
+    "Untitled.base",
+    "Plans for the next week.md",
+    "Daily Notes/7-10-2025.md",
+    "Daily Notes/6-10-2025.md",
+    "Daily Notes/26-9-2025.md",
+    "Daily Notes/25-9-2025.md",
+    "Daily Notes/Tue 23rd Sep.md",
+    "Daily Notes/Mon 18th Aug.md",
     "Daily Notes/Sat 16th Aug.md",
     "Daily Notes/Fri 15th Aug.md",
     "Daily Notes/Wed 22nd Jan.md",
     "Templates/testing.md",
-    "Workout Log.md",
     "Daily Notes/Wed 12th Mar.md",
     "Daily Notes/Tue 11th Mar.md",
     "Daily Notes/Fri 7th Mar.md",
@@ -234,15 +248,6 @@
     "Daily Notes/Fri 28th Feb.md",
     "Gym/Legs.md",
     "Daily Notes/Thu 27th Feb.md",
-    "Daily Notes/Thu 20th Feb.md",
-    "Shopping list.md",
-    "Daily Notes/Fri 14th Feb.md",
-    "Recipes/Grilled Cheese.md",
-    "Recipes/Chicken Tostadas.md",
-    "Recipes/Chicken Rice and Beans.md",
-    "Templates/Daily Note design.md",
-    "README.md",
-    "Templates/Recipe Template.md",
     "Car Repair Plan.canvas",
     "Untitled",
     "Recipes",
