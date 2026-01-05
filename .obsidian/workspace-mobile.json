@@ -53,21 +53,34 @@
             "id": "b6ba7b5eb62a6d2d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Izzz-OS Planning.canvas",
-                "viewState": {
-                  "x": -36.287301796114,
-                  "y": -11.186209526381344,
-                  "zoom": -0.22022107760785264
-                }
+                "file": "Daily Notes/5-1-2026.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Izzz-OS Planning"
+              "icon": "lucide-file",
+              "title": "5-1-2026"
+            }
+          },
+          {
+            "id": "da50efbd8e729e34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Years Resolutions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "New Years Resolutions"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -221,8 +234,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6ba7b5eb62a6d2d",
+  "active": "da50efbd8e729e34",
   "lastOpenFiles": [
+    "New Years Resolutions.md",
+    "Daily Notes/5-1-2026.md",
+    "ALL_NOTES.base",
+    "![[Pasted image 20251010100659.png.md",
+    "Izzz-OS Planning.canvas",
     "Izzz_OS.md",
     "Daily Notes/8-12-2025.md",
     "Daily Notes/15-10-2025.md",
@@ -247,9 +265,6 @@
     "Daily Notes/Tue 11th Mar.md",
     "Daily Notes/Fri 7th Mar.md",
     "Daily Notes/Wed 5th Mar.md",
-    "Gym/Push.md",
-    "Gym/Pull.md",
-    "Daily Notes/Fri 28th Feb.md",
     "Car Repair Plan.canvas",
     "Untitled",
     "Recipes",
