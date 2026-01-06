@@ -15,6 +15,7 @@
 	3. Animation [[Animation Station]] 
 	4. Sculpting [[Sculpting]] 
 	5. Video [[Video Ideas]]
-	6. Written [[DnD Story Ideas]]
+	6. 
+	7. Written [[DnD Story Ideas]]
 - [ ] Save up enough to go to Banff and Toño’s Wedding in November [[Budget]] 
 - [ ] I want to go to the gym 5 days a week by the June 7th [[Gym Notes]] 
