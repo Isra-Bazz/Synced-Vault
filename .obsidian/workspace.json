@@ -11,10 +11,17 @@
             "id": "2427a0d583be174f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "canvas",
+              "state": {
+                "file": "Izzz-OS Planning.canvas",
+                "viewState": {
+                  "x": -270,
+                  "y": -112.40000000000006,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Izzz-OS Planning"
             }
           },
           {
@@ -23,16 +30,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HyDE Config Keeping.md",
+                "file": "New Years Resolutions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HyDE Config Keeping"
+              "title": "New Years Resolutions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,8 +93,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,14 +216,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2427a0d583be174f",
+  "active": "50b4f38c80cc5f82",
   "lastOpenFiles": [
-    "Ultrakill Proxy.md",
-    "Daily Notes/27-10-2025.md",
-    "Izzz-OS Planning.canvas",
-    "Izzz_OS.md",
-    "Hyprland Izzz Reform.md",
+    "The DoomSlayer Proxy Deck.md",
+    "New Years Resolutions.md",
     "HyDE Config Keeping.md",
+    "Izzz-OS Planning.canvas",
+    "Daily Notes/8-12-2025.md",
+    "Daily Notes/5-1-2026.md",
+    "Daily Notes/6-1-2026.md",
+    "Daily Notes/2-1-2026.md",
+    "Izzz_OS.md",
+    "Daily Notes/8-11-2025.md",
+    "Daily Notes/27-10-2025.md",
+    "Vim Motions.md",
+    "Ultrakill Proxy.md",
+    "Hyprland Izzz Reform.md",
     "Daily Notes/21-10-2025.md",
     "Daily Notes/17-10-2025.md",
     "MTG Thoughts.md",
@@ -229,17 +244,8 @@
     "Daily Notes/10-10-2025.md",
     "Untitled.md",
     "![[Pasted image 20251010100659.png.md",
-    "The DoomSlayer Proxy Deck.md",
     "Pasted image 20251010100659.png",
     "Daily Notes/9-10-2025.md",
-    "Daily Notes/8-10-2025.md",
-    "Daily Notes/7-10-2025.md",
-    "List of projects.md",
-    "Daily Notes/6-10-2025.md",
-    "Kilojoule Consumption Calculations.md",
-    "Templates/Daily Note Template.md",
-    "Destiny Vex Deck.md",
-    "Templates/Daily Note design.md",
     "ALL_NOTES.base",
     "PROJECTS.base",
     "Untitled.base",
