@@ -16,9 +16,9 @@
               "state": {
                 "file": "Izzz-OS Planning.canvas",
                 "viewState": {
-                  "x": -224.98410849916644,
-                  "y": 225.54433841487287,
-                  "zoom": -0.6
+                  "x": -270,
+                  "y": -112.40000000000006,
+                  "zoom": 0
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -38,16 +38,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Izzz_OS.md",
+                "file": "New Years Resolutions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Izzz_OS"
+              "title": "New Years Resolutions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -100,8 +101,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,21 +224,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f80e0c277e4de892",
+  "active": "50b4f38c80cc5f82",
   "lastOpenFiles": [
-    "Izzz-OS Planning.canvas",
-    "Izzz_OS.md",
+    "The DoomSlayer Proxy Deck.md",
+    "New Years Resolutions.md",
     "HyDE Config Keeping.md",
+    "Izzz-OS Planning.canvas",
+    "Daily Notes/8-12-2025.md",
+    "Daily Notes/5-1-2026.md",
+    "Daily Notes/6-1-2026.md",
+    "Daily Notes/2-1-2026.md",
+    "Izzz_OS.md",
+    "Daily Notes/8-11-2025.md",
+    "Daily Notes/27-10-2025.md",
+    "Vim Motions.md",
+    "Ultrakill Proxy.md",
     "Hyprland Izzz Reform.md",
-    "Daily Notes/25-9-2025.md",
-    "Daily Notes/24-9-2025.md",
-    "Neovim Izzz Reform.md",
+    "Daily Notes/21-10-2025.md",
+    "Daily Notes/17-10-2025.md",
     "MTG Thoughts.md",
-    "Front-End Developer Course.md",
-    "Japan Trip Itinerary.md",
-    "Keyboard Fix.md",
-    "Templates/Daily Note Template.md",
+    "Daily Notes/16-10-2025.md",
+    "Daily Notes/14-10-2025.md",
+    "Daily Notes/12-10-2025.md",
+    "Pasted image 20251011180929.png",
+    "Daily Notes/11-10-2025.md",
+    "Vex Proxy Deck.md",
+    "Daily Notes/10-10-2025.md",
     "Untitled.md",
+    "![[Pasted image 20251010100659.png.md",
+    "Pasted image 20251010100659.png",
+    "Daily Notes/9-10-2025.md",
     "ALL_NOTES.base",
     "PROJECTS.base",
     "Breaking Up with Jesse.md",
