@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"4e07af8783210653","type":"text","text":"# Izzz_OS","x":-40,"y":340,"width":120,"height":50},
-		{"id":"108baa01362f2cf8","type":"text","text":"Hyprland","x":-780,"y":130,"width":120,"height":50},
-		{"id":"01c3f58471ea4ab8","type":"text","text":"Zsh","x":-480,"y":40,"width":125,"height":50},
-		{"id":"bda789cef2957ef0","type":"text","text":"## Bash Install Script\nI want to install all packages that I feel are relevant\ncurrently I think barebones would be good so that is : \n- SDDM and its qt deps\n- swappy for screenshots\n- cliphist\n- neovim\n- file roller (ark unzip eqv)\n- codium\n- zen-browser\n- eza \n- starship","x":-220,"y":-280,"width":460,"height":270}
+		{"id":"4e07af8783210653","x":-40,"y":340,"width":120,"height":50,"type":"text","text":"# Izzz_OS"},
+		{"id":"108baa01362f2cf8","x":-780,"y":130,"width":120,"height":50,"type":"text","text":"Hyprland"},
+		{"id":"01c3f58471ea4ab8","x":-480,"y":40,"width":125,"height":50,"type":"text","text":"Zsh"},
+		{"id":"bda789cef2957ef0","x":-80,"y":40,"width":250,"height":50,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"d3ba4b5dcc6c53ff","fromNode":"108baa01362f2cf8","fromSide":"bottom","toNode":"4e07af8783210653","toSide":"top"},

@@ -9,15 +9,8 @@ Make my own Hyprland config and make it how I want to make it
 - I should borrow from HyDE and other pre established DEs to make it better for the user (me)
 ## Plan or Formulation:
 - 
+- 
 ![[Izzz-OS Planning.canvas|Izzz-OS Planning]]
 ## Prototyping:
-Structure of Repo: 
-/Configs
-	/Hypr
-	/others?
-/Scripts
-	List of apps 
-	install script
-
 
 ## Review:
