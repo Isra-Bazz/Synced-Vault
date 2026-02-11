@@ -1,7 +1,9 @@
 {
   "vimMode": true,
-  "mobilePullAction": "switcher:open",
+  "mobilePullAction": "command-palette:open",
   "alwaysUpdateLinks": true,
   "readableLineLength": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "openBehavior": "daily",
+  "promptDelete": false
 }

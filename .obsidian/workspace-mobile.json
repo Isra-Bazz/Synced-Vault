@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Years Resolutions.md",
+                "file": "Daily Notes/11-2-2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New Years Resolutions"
+              "title": "11-2-2026"
             }
           }
         ]
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Izzz-OS Planning.canvas",
+            "file": "Daily Notes/11-2-2026.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,8 +178,21 @@
   },
   "active": "867e9a8b99263f0f",
   "lastOpenFiles": [
-    "Daily Notes/6-1-2026.md",
+    "Daily Notes/12-2-2026.md",
+    "Daily Notes/11-2-2026.md",
+    "Daily Notes/6-2-2026.md",
+    "Templates/Daily Note design.md",
+    "Templates/Daily Note Template.md",
+    "Daily Notes/2-2-2026.md",
+    "Daily Notes/30-1-2026.md",
+    "Budget.md",
     "New Years Resolutions.md",
+    "Daily Notes/25-1-2026.md",
+    "Workout Log.md",
+    "Daily Notes/20-1-2026.md",
+    "Daily Notes/12-1-2026.md",
+    "Daily Notes/7-1-2026.md",
+    "Daily Notes/6-1-2026.md",
     "Daily Notes/5-1-2026.md",
     "ALL_NOTES.base",
     "![[Pasted image 20251010100659.png.md",
@@ -189,24 +202,11 @@
     "Daily Notes/15-10-2025.md",
     "LSP config for neovim.md",
     "Make shit now and fix obsidian.md",
-    "Workout Log.md",
     "VSCodium Hyde Research.md",
     "Vim Motions.md",
     "Untitled.base",
     "Plans for the next week.md",
     "Daily Notes/7-10-2025.md",
-    "Daily Notes/6-10-2025.md",
-    "Daily Notes/26-9-2025.md",
-    "Daily Notes/25-9-2025.md",
-    "Daily Notes/Tue 23rd Sep.md",
-    "Daily Notes/Mon 18th Aug.md",
-    "Daily Notes/Sat 16th Aug.md",
-    "Daily Notes/Fri 15th Aug.md",
-    "Daily Notes/Wed 22nd Jan.md",
-    "Templates/testing.md",
-    "Daily Notes/Wed 12th Mar.md",
-    "Daily Notes/Tue 11th Mar.md",
-    "Daily Notes/Fri 7th Mar.md",
     "Car Repair Plan.canvas",
     "Untitled",
     "Recipes",
