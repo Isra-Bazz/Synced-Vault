@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/11-2-2026.md",
+                "file": "Daily Notes/13-2-2026.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11-2-2026"
+              "title": "13-2-2026"
             }
           }
         ]
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Daily Notes/11-2-2026.md",
+            "file": "Ultrakill Proxy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,6 +178,9 @@
   },
   "active": "867e9a8b99263f0f",
   "lastOpenFiles": [
+    "Daily Notes/14-2-2026.md",
+    "MTG Thoughts.md",
+    "Ultrakill Proxy.md",
     "Daily Notes/12-2-2026.md",
     "Daily Notes/11-2-2026.md",
     "Daily Notes/6-2-2026.md",
@@ -203,10 +206,7 @@
     "LSP config for neovim.md",
     "Make shit now and fix obsidian.md",
     "VSCodium Hyde Research.md",
-    "Vim Motions.md",
     "Untitled.base",
-    "Plans for the next week.md",
-    "Daily Notes/7-10-2025.md",
     "Car Repair Plan.canvas",
     "Untitled",
     "Recipes",

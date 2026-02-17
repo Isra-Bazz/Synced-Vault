@@ -26,3 +26,9 @@ I have 4 decks rn
 - Ultrakill 
 - Vex Deck
 - Hashaton
+
+# ERRATA
+Currently I have not built all the decks I want 
+But the lists are stored in archideck [here](https://archidekt.com/search/decks?ownerUsername=Izzzzzz)
+
+There is a total of 10 decks to be stored in case and 4 other boxes
