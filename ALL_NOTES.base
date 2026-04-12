@@ -13,7 +13,7 @@ views:
         - "!Note_Type.isEmpty()"
     order:
       - file.name
-      - Date
+      - file.mtime
     sort:
       - property: file.mtime
         direction: DESC

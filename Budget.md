@@ -9,7 +9,10 @@
 8500/42 = 200$ a week 
 Focusing on credit card and zip money first 
 Which means a total income of 800 a fortnight until casual work  
-1. New phone will take at least a month of saving 
-2. Clothes are first up 
-3. Headphones
-4. Steam deck lol 
+1. Pixel 10 - 800
+2. Work clothes - 400
+3. Headphones - 300
+4. Steam deck - 700
+5. Magic deck cards - 1k can be segmented  
+6. Car parts - ~400
+
